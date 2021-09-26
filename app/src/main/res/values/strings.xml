@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">smart_refrigirator</string>
+    <string name="initialdetails">initial details</string>
+    <string name="viewdetails">View Details</string>
+    <string name="addfood">Add Food</string>
+    <string name="deletefood">Detete Food</string>
+    <string name="changefood">Change Food</string>
+</resources>
