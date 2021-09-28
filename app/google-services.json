@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "59383554082",
+    "project_id": "textrecog-ee458",
+    "storage_bucket": "textrecog-ee458.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59383554082:android:b43c3088458abb8ac7ea7b",
+        "android_client_info": {
+          "package_name": "com.example.smart_refrigirator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59383554082-6oguq3tibh7u4bpu5aunudpuaq6rikgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-NZHfOdm0jLVB9Bnv4pfHnoTdBJMg6Sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59383554082-6oguq3tibh7u4bpu5aunudpuaq6rikgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
