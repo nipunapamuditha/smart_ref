@@ -5,4 +5,6 @@
     <string name="addfood">Add Food</string>
     <string name="deletefood">Detete Food</string>
     <string name="changefood">Change Food</string>
+    <string name="Food_name">Name</string>
+    <string name="Food_exp">Expiry Date</string>
 </resources>
