@@ -5,6 +5,8 @@
       <map>
         <entry key="..\:/smart_refrigirator/app/src/main/res/layout/activity_addfoodactivity.xml" value="0.36666666666666664" />
         <entry key="..\:/smart_refrigirator/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/smart_refrigirator/app/src/main/res/layout/activity_viewdetails.xml" value="0.33" />
+        <entry key="..\:/smart_refrigirator/app/src/main/res/layout/activity_viewfoodactivity.xml" value="0.33" />
       </map>
     </option>
   </component>

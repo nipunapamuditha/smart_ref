@@ -53,6 +53,7 @@
         android:layout_marginEnd="24dp"
         android:layout_marginBottom="150dp"
         android:hint="@string/viewdetails"
+        android:onClick="clickbuttionview"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 

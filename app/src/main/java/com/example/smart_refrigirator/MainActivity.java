@@ -252,4 +252,11 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
+    public void clickbuttionview(View view)   // just sending user to the add window
+    {
+        Intent intent = new Intent(this,viewfoodactivity.class);
+        startActivity(intent);
+
+
+    }
 }

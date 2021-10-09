@@ -7,4 +7,8 @@
     <string name="changefood">Change Food</string>
     <string name="Food_name">Name</string>
     <string name="Food_exp">Expiry Date</string>
+    <string name="tray1">tray 1</string>
+    <string name="tray2">tray 2</string>
+    <string name="tray3">tray 3</string>
+    <string name="tray4">tray 4</string>
 </resources>
