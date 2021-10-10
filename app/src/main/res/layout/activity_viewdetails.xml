@@ -4,35 +4,42 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/abcd"
     tools:context=".viewdetails">
 
     <TextView
         android:id="@+id/fname"
-        android:layout_width="222dp"
-        android:layout_height="52dp"
-        android:layout_marginTop="24dp"
+        android:layout_width="185dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="76dp"
+        android:background="#EF0101"
         android:text="TextView"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.518"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
         android:id="@+id/fexp"
-        android:layout_width="231dp"
-        android:layout_height="43dp"
+        android:layout_width="188dp"
+        android:layout_height="47dp"
         android:layout_marginTop="24dp"
+        android:background="#FF0000"
         android:text="TextView"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.511"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/fname" />
 
     <TextView
         android:id="@+id/fweight"
-        android:layout_width="214dp"
-        android:layout_height="56dp"
-        android:layout_marginTop="24dp"
+        android:layout_width="191dp"
+        android:layout_height="46dp"
+        android:layout_marginTop="32dp"
+        android:background="#F80404"
         android:text="TextView"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.502"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/fexp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
